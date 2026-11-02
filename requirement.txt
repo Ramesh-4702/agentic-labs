@@ -1,0 +1,11 @@
+requests
+openai
+beautifulsoup4
+python-dotenv
+gradio
+langchain
+langchain-openai
+langchain_chroma
+langchain_huggingface
+langchain-community 
+langchain-text-splitters pypdf
